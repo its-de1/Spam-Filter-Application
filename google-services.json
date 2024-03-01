@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "316580741932",
+    "firebase_url": "https://spam-filter-e2c7f.firebaseio.com",
+    "project_id": "spam-filter-e2c7f",
+    "storage_bucket": "spam-filter-e2c7f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:316580741932:android:4cfee00e9ebea748b3a289",
+        "android_client_info": {
+          "package_name": "com.example.spamfilter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "316580741932-j7pcrs978cc7oeue6fdds72p57306jka.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGie37E-Ct23ISg_vzLadCrHZ0Q52FIAY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "316580741932-j7pcrs978cc7oeue6fdds72p57306jka.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
